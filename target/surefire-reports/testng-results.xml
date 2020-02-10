@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-06T19:17:34Z" name="Suite" finished-at="2020-01-06T19:17:34Z" duration-ms="88">
+    <groups>
+    </groups>
+    <test started-at="2020-01-06T19:17:34Z" name="Test" finished-at="2020-01-06T19:17:34Z" duration-ms="88">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method signature="NativeAppAndroid()[pri:0, instance:qaclickacademy.AppiumTest@6069db50]" started-at="2020-01-06T14:17:34Z" name="NativeAppAndroid" finished-at="2020-01-06T14:17:34Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RESTAPITest">
+        <test-method signature="postJira()[pri:0, instance:qaclickacademy.RESTAPITest@9597028]" started-at="2020-01-06T14:17:34Z" name="postJira" finished-at="2020-01-06T14:17:34Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclickacademy.RESTAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@4550bb58]" started-at="2020-01-06T14:17:34Z" name="BrowserAutomation" finished-at="2020-01-06T14:17:34Z" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
